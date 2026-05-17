@@ -89,9 +89,3 @@ These are useful to help you locate the key screens and components in the codeba
 
 ---
 
-If you'd like, I can also:
-- Add a `CONTRIBUTING.md` and `LICENSE` file
-- Create a short cheat-sheet for the viva with the most important file paths and quick edit examples
-- Update the README with screenshots or build badges (if you provide them)
-
-
